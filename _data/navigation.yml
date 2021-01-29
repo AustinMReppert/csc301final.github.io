@@ -1,0 +1,5 @@
+main:
+  - title: "home"
+    url: /
+  - title: "all-posts"
+    url: /posts/
