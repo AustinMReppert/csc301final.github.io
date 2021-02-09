@@ -6,9 +6,6 @@ description: >-
 baseurl: "/csc301final.github.io"
 url: "https://austinmreppert.github.io"
 
-
-markdown: github
-
 minimal_mistakes_skin: "dark"
 remote_theme: "mmistakes/minimal-mistakes"
 
