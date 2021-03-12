@@ -10,4 +10,4 @@ With the increasing number of protections around cookies, websites are looking f
 I do not think this attack is particularly important in the sense that almost no one has scripts disabled. So why would attackers resort to such complicated tracking methods? I think only nation states would dedicate so much effort to these types of attacks. If you want to be almost entirely secure you should just be using a text-based browser like Lynx. These side-channel based attacks really show that developers need some sort of abstraction to hide the cache capabilities of a CPU. Speed has always been a priority, so it will likely take a while for kernel/OS level abstractions around it.  I do not think this is something that should concern average users.
 
 # Sources
-* [The Daily Swig]( https://portswigger.net/daily-swig/research-how-json-parsers-can-create-security-risks-when-it-comes-to-interoperability)
+* [The Hacker News]( https://thehackernews.com/2021/03/new-browser-attack-allows-tracking.html)
